@@ -20,12 +20,6 @@ Your senior dev was able to meet with you and your teammate for few minutes to g
 1. You will need to reference elements without IDs
 
 ## Instructions
-
-This is a pair programming lab. One person from the pair will fork the lab repo which will contain all of the files necessary to complete the project.
-Add the other person as a collborator. That means that both of you will have privileges to push and merge to that repo.
-
-Fill in the necessary code in the JavaScript and CSS files, but **do not modify the HTML files in any way**.
-
 Your `index.html` is an order form for customers: it will have an order form for BusMall that contains the following features:
 
   1. A dropdown menu of all BusMall products (`<select>` and `<option>` will be needed).
@@ -53,6 +47,21 @@ Your `index.html` is an order form for customers: it will have an order form for
 ## Resources
 
 The starter code for this lab is found in the daily class repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Submission Instructions
 
